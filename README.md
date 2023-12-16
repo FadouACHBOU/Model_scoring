@@ -1,4 +1,4 @@
-# Projet_07 Implémentez un modèle de scoring
+# Implémentez un modèle de scoring
 ## Présentation
 * La mission principale de ce projet est de prédire le risque de faillite d'un client pour une société de crédit. Pour cela, nous devons configurer un modèle de classification binaire et d'en analyser les différentes métriques.
 
